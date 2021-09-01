@@ -1,0 +1,417 @@
+Package: io.cjbd.backgrounderaction14
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CJBD <t0mi@web.de>
+Installed-Size: 244
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/io.cjbd.backgrounderaction14_1.0_iphoneos-arm.deb
+Size: 9848
+MD5sum: 98f7acceeefff6917a352425c38f5b0e
+SHA1: 61cd6a68572a0c80ae3c1d635d0561852c63ea3e
+SHA256: ab39808915f19e29098a5ad970b755c16b052f15bab62d10d2f969b4055a3fe9
+Section: Tweaks
+Description: Füge "Toggle Background Mode" Aktion zum Kontrollzentrum hinzu.
+Author: akusio
+Name: BackgrounderAction14
+
+Package: io.cjbd.detailedbatteryusage
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: CJBD <t0mi@web.de>
+Installed-Size: 193
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/io.cjbd.detailedbatteryusage_1.1.1_iphoneos-arm.deb
+Size: 17512
+MD5sum: aebc48baf39b4fd103b188db70b42fd8
+SHA1: fcbafffade84494d71107be3ecc6f9450316a74f
+SHA256: e7e2619df6b4803f64622f351be02bf93ae012db5854072018830e2937f3cc13
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=detailedbatteryusageDp
+Description: Aktiviert das versteckte Menü der Betteriebenutzung in den Einstellungen!
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Author: Hamza Sood <hamza_sood+Cydia@me.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=detailedbatteryusageDp
+Dev: hamzasood
+Name: DetailedBatteryUsage
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: io.cjbd.dkbtan2gobypass
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: CJBD <t0mi@web.de>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/io.cjbd.dkbtan2gobypass_0.0.2_iphoneos-arm.deb
+Size: 4456
+MD5sum: 91459fc2999134c212589e0a22e5dc74
+SHA1: f149cce34c550d0c3fa406c175f03981ed5eb3be
+SHA256: 0e2288dddf08ddb420ee8670dc5f61c66c473d9fd942d2f8c561ba09da6d6a8d
+Section: Tweaks
+Description: Jailbreak-Erkennung umgehen von DKB-TAN2go v2.5.0!
+Author: XsF1re
+Name: DKBTAN2goBypass
+
+Package: io.cjbd.flurry
+Version: 2.0-4
+Architecture: iphoneos-arm
+Maintainer: CJBD <t0mi@web.de>
+Installed-Size: 664
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist
+Filename: ./debs/io.cjbd.flurry_2.0-4_iphoneos-arm.deb
+Size: 106864
+MD5sum: d05c23ac1a3f4fa52b8b2abc68c912a8
+SHA1: a070742c2e36e31b6a3c877cedce779ec2dd9c6c
+SHA256: aced930771f2869a867aa175ad5f342259cafa81af5638442ad10da32e78cd3b
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flurryDp
+Description: Gestalte iOS durchsichtig! NC, CC, Benachrichtigungen, etc.
+Tag: purpose::extension, role::enduser, ios7support::1, ios8support::1
+Author: dantesieg <bahadirb@me.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flurryDp
+Dev: dantesieg
+Icon: file:///Library/PreferenceBundles/flurryprefs.bundle/flurryprefs@2x.png
+Name: Flurry
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: io.cjbd.flyjb
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: CJBD <t0mi@web.de>
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
+Filename: ./debs/io.cjbd.flyjb_0.3_iphoneos-arm.deb
+Size: 498108
+MD5sum: a2b84f0fd241f3ec3e333d9cd08dfa7f
+SHA1: d856f0b1300c920decad6142dca9d777985e62e7
+SHA256: 7796f722b2981c46c20da08e169d13a75bf48ed6bd70697f71447161a523238c
+Section: Tweaks
+Description: Sie können den Jailbreak auf Ihrem iDevice ausblenden.
+Author: XsF1re
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+Name: FlyJB
+
+Package: io.cjbd.glasklart
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: CJBD <t0m@web.de>
+Filename: ./debs/io.cjbd.glasklart_2.0_iphoneos-arm.deb
+Size: 79141232
+MD5sum: 5b428cec4e66458c1dd6f4d1307276e6
+SHA1: 8b728a408a111e4d16279fd5447f0786e76e34f8
+SHA256: afa1e4a7f87efe29405b29fcdfd16472cdd241c15fe12a75a750f6a474093681
+Section: Themes
+Description: Überdacht und neu gemacht für das Retina-Display.
+Author: Max Rudberg
+Name: Glasklart
+
+Package: io.cjbd.gridiculous
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: CJBD <t0mi@web.de>
+Depends: mobilesubstrate, com.ichitaso.iconanus (>= 1.0.2.1)
+Conflicts: com.cpddr.gridiculous13, com.cpdigitaldarkroom.gridiculous
+Filename: ./debs/io.cjbd.gridiculous_1.1_iphoneos-arm.deb
+Size: 25912
+MD5sum: 2af8a86d8f65cc0026462e96c5bd2064
+SHA1: 34aecac30b588600880a2cbf4435b22e9dbbd0a1
+SHA256: 5595dcfccfc4db204d75f645f04fed57b8f6d120182695f0b4b7c862479fc289
+Section: Tweaks
+Description: Icons überall? Das ist Gridiculous
+Author: CPDD
+Name: gridiculous
+
+Package: io.cjbd.instaopenin
+Version: 1.1-4
+Architecture: iphoneos-arm
+Maintainer: CJBD <t0mi@web.de>
+Installed-Size: 878
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Conflicts: com.idevicelover.instaenhancer
+Filename: ./debs/io.cjbd.instaopenin_1.1-4_iphoneos-arm.deb
+Size: 283124
+MD5sum: 26748cd371ea399f740acbf1591a9c8e
+SHA1: 82f4e1bc44dc0a7cbd716eee3687e6ff35bf1175
+SHA256: 804ff9df708454952fe9566b372adfbabe5974271646da0e86b8d68f6345fb6c
+Section: Tweaks
+Description: Instagram Bilder/Videos speichern und in anderen Apps öffnen!
+Tag: purpose::extension, ios7support::1, ios8support::1
+Author: iMokhles <imokhless0@gmail.com>
+Dev: imokhles
+Icon: file:///Library/PreferenceBundles/InstaOpenIN.bundle/InstaOpenINI@2x.png
+Name: InstaOpenIN
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: io.cjbd.minimalelegance
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Jesse66 <Jesse-66@gmx.net>
+Filename: ./debs/io.cjbd.minimalelegance_1.1_iphoneos-arm.deb
+Size: 25581156
+MD5sum: a1f2e33a965514555069a7a817cfd8c5
+SHA1: 5571bfaadec4448e71cd205765495cdd6655e4f7
+SHA256: fd0f7909564599743025dded527cd1d7508b685a17d85dba7f0f113e001071c2
+Section: Themes
+Description: Simple light gray theme
+Author: Jesse66 <Jesse-66@gmx.net>
+Name: Minimal Elegance
+
+Package: io.cjbd.minimalhostsblocker
+Version: 7.3
+Architecture: iphoneos-arm
+Maintainer: CJBD <t0m@web.de>
+Pre-Depends: dpkg (>= 1.13.25-5)
+Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic
+Filename: ./debs/io.cjbd.minimalhostsblocker_7.3_iphoneos-arm.deb
+Size: 5740
+MD5sum: b7d320cc517263a6ee4aaa3c42236c9a
+SHA1: 22857ae87b3846bf72de16688f63b1023a15bcc3
+SHA256: a9980e6b0b44aca96ff88022c457c595ec8a5c919f33518d85a7a686b5b42881
+Section: Tweaks
+Description: Der wohl kleinste AD Blocker!
+Author: ReddestDream <reddestdream@gmail.com>
+Depiction: https://reddestdream.github.io/depictions/MinimalHostsBlocker/index.html
+Name: Minimal Hosts Blocker
+
+Package: io.cjbd.nellalite
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CJBD <t0mi@web.de>
+Filename: ./debs/io.cjbd.nellalite_1.0_iphoneos-arm.deb
+Size: 7616
+MD5sum: 9f8c669f8121c19f3fe4ae1079c4687d
+SHA1: 31168d3d44b69d283d597d68b304fcfa6b859500
+SHA256: 93b745e2213e798b83593893c421096791d98f74c55eba3be7fc294a2559bd62
+Section: Tweaks
+Description: Runde Umrandung des Respring-Buttons in Cydia.
+Author: t0mi
+Name: Nella Lite
+
+Package: io.cjbd.noslowanimations
+Version: 5.2.1
+Architecture: iphoneos-arm
+Maintainer: CJBD <t0mi@web.de>
+Installed-Size: 358
+Depends: firmware (>= 7.0.3), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Filename: ./debs/io.cjbd.noslowanimations_5.2.1_iphoneos-arm.deb
+Size: 28336
+MD5sum: 33e9af4d4b0eeb8a0b8ce95cab9bbbbd
+SHA1: aa61d28cfb185d152fb8524893dafdc0555e327c
+SHA256: 90c933515f113dc9ff8908af9498ff418e932a028c8bcdb18defd64b6332acfc
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=noslowanimationsDp
+Description: Animationen in iOS 7 & 8 beschleunigen!
+Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9
+Author: Marco Singhof <singhofmarco@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=noslowanimationsDp
+Dev: marcosinghof
+Icon: file:///Library/PreferenceBundles/NoSlowAnimationsSettings.bundle/NoSlowAnimationsSettings@2x.png
+Name: NoSlowAnimations
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: io.cjbd.notracking
+Version: 1.1.2-2
+Architecture: iphoneos-arm
+Maintainer: CJBD <t0mi@web.de>
+Installed-Size: 427
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), preferenceloader
+Filename: ./debs/io.cjbd.notracking_1.1.2-2_iphoneos-arm.deb
+Size: 138724
+MD5sum: 327152b83a968dcc3f6ce73b1a36dd91
+SHA1: 5220cd01081783427b8ca360e12d5644c183a844
+SHA256: c7eabaa8d69c38d78e7586418b1f13837a799544f844ab139ed38029c6311e3b
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=notrackingDp
+Description: Privatsphäre für alle Apps einstellbar!
+Tag: purpose::extension, compatible::ios7, compatible::ios8
+Author: GreenyDev <greenydev@greenmail.net.au>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=notrackingDp
+Dev: greeny
+Name: NoTracking+
+
+Package: io.cjbd.oriental
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: CJBD <t0mi@web.de>
+Depends: mobilesubstrate
+Filename: ./debs/io.cjbd.oriental_1.0.1_iphoneos-arm.deb
+Size: 6604
+MD5sum: 5093c3347e1ed62dbadcfe8deec3543e
+SHA1: 184c8412ba98ccc9500c0f281607042f791e6491
+SHA256: a4b4dd71b8d98cc19ef95c095c6286c3999f588c661bef9c088c8a820bb53a07
+Section: Tweaks
+Description: Drehen oder nicht.
+Author: ubik <ubik@fwdr.org>
+Name: Oriental
+
+Package: io.cjbd.photores
+Version: 1.0-3
+Architecture: iphoneos-arm
+Maintainer: CJBD <t0mi@web.de>
+Installed-Size: 292
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Filename: ./debs/io.cjbd.photores_1.0-3_iphoneos-arm.deb
+Size: 37884
+MD5sum: 95509038b47a8492635b396c71131354
+SHA1: 68d831c4e005c5252d8acba447d33984bc0b2254
+SHA256: 2f04691349dc99789f7e02d86ec395c51f7265e66b3723329f972078cb370b02
+Section: Tweaks
+Description: Verschiedene Formate und Auflösungen für die iOS Kamera
+Tag: purpose::extension, role::enduser, ios7support::1, ios8support::1
+Author: PoomSmart <poomst@hotmail.com>
+Dev: poomst
+Icon: file:///Library/PreferenceBundles/PhotoResSettings.bundle/PR@2x.png
+Name: PhotoRes
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: io.cjbd.pushtanbypass
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: CJBD <t0mi@web.de>
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/io.cjbd.pushtanbypass_0.1_iphoneos-arm.deb
+Size: 3144
+MD5sum: 8383af02473d4ae0e97775fc659d1141
+SHA1: ab90238b6a1a65487f04a0c3c543ab3372bdfc96
+SHA256: 9b4c3792157b90445ea2faae78f64d2168c0298f921951bf759f197e834139ed
+Section: Tweaks
+Description: Jailbreak-Erkennung umgehen von pushTAN v3.2.1!
+Author: XsF1re
+Name: pushTANBypass
+
+Package: io.cjbd.sparkassebypass
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: CJBD <t0mi@web.de>
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/io.cjbd.sparkassebypass_0.1_iphoneos-arm.deb
+Size: 3148
+MD5sum: 247a98f26e3442bfc96183d4be137170
+SHA1: 3534c154b4d84a338345f60539094494447f3e0b
+SHA256: 8128259218382412137ab2c80d80c8cc247a7c4867a65d3502e24a7b18ed9c37
+Section: Tweaks
+Description: Jailbreak-Erkennung umgehen von Sparkasse Ihre mobile Filiale v5.9.1!
+Author: XsF1re
+Name: SparkasseBypass
+
+Package: io.cjbd.vrbypass
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: CJBD <t0mi@web.de>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/io.cjbd.vrbypass_0.0.2_iphoneos-arm.deb
+Size: 4464
+MD5sum: cfc741563f0cb36a9f988e1608821cdd
+SHA1: 9ee5c24af1220e5a0db3acfadc180c27fa093f24
+SHA256: d59abb8d362a0482c307afc5a9405931bf8156c2524c3b136632298dfebf1d5b
+Section: Tweaks
+Description: Jailbreak-Erkennung umgehen von VR-Banking v20.13.2 and VR-SecureGo v20.13.0!
+Author: XsF1re
+Name: VRBypass
+
+Package: io.cjbd.whatsappchatthemeblur
+Version: 1.0.0-2
+Architecture: iphoneos-arm
+Maintainer: Fabian Geissler (Hack4Life) <admin@hack4life.org>
+Installed-Size: 414
+Filename: ./debs/io.cjbd.whatsappchatthemeblur_1.0.0-2_iphoneos-arm.deb
+Size: 25612
+MD5sum: 11868454669ec12e6ebb819de98e553a
+SHA1: 0000b1d8975cbba551ffc0242d3a57461e052f1f
+SHA256: c01cf0953ec1a27f194a1ed1ce302b125eb5eb692724842449b5ff847384663f
+Section: Themes (WhatsApp)
+Description: Durchsichtige Chat Blasen für WhatsApp.
+Author: Fabian Geissler (Hack4Life) <admin@hack4life.org>
+Name: WhatsApp Chat Theme
+
+Package: io.cjbd.whatsappchatthemedurchsichtig
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Fabian Geissler (Hack4Life) <admin@hack4life.org>
+Installed-Size: 414
+Filename: ./debs/io.cjbd.whatsappchatthemedurchsichtig_1.0.0-1_iphoneos-arm.deb
+Size: 21008
+MD5sum: ec7c16f3ee5a5dcc9142e0ad3a7eaca1
+SHA1: 95b3c2073df55c0278a7acb3c47115e66e9e9ee0
+SHA256: 8f510ab8ee5114ed9430a6bf5f513b5dacdd16a0237f3d9f048391cb9d980d00
+Section: Themes (WhatsApp)
+Description: Chat Blasen für WhatsApp ohne Chat Blasen!
+Author: Fabian Geissler (Hack4Life) <admin@hack4life.org>
+Name: WhatsApp Durchsichtiges Chat Theme
+
+Package: io.cjbd.whatsappchatthemegrau
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Fabian Geissler (Hack4Life) <admin@hack4life.org>
+Installed-Size: 414
+Filename: ./debs/io.cjbd.whatsappchatthemegrau_1.0.0_iphoneos-arm.deb
+Size: 23256
+MD5sum: eb072865651e78b775379745f5517b45
+SHA1: 529f1a73cbd10805888f6b11f438b69b4283e980
+SHA256: 7dcc47067052217bb8cc8d7af2b748d4ac6f3eced9707f799d2243ea9d0ddb1e
+Section: Themes (WhatsApp)
+Description: Graue Chat Blasen für WhatsApp.
+Author: Fabian Geissler (Hack4Life) <admin@hack4life.org>
+Name: WhatsApp Graue Chat Theme
+
+Package: io.cjbd.whatsappchatthemegruen
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Fabian Geissler (Hack4Life) <admin@hack4life.org>
+Installed-Size: 414
+Filename: ./debs/io.cjbd.whatsappchatthemegruen_1.0.0_iphoneos-arm.deb
+Size: 23840
+MD5sum: 2e74dc9927ad41e1c3a7bbfc162fd774
+SHA1: 8f442c56ace8401dc2246d8803e26cdc52419870
+SHA256: ed040d8b9464afb6b2517ecbcc909e17c0225dc3d53884c388a38c2d1b51c420
+Section: Themes (WhatsApp)
+Description: Grüne Chat Blasen für WhatsApp. Hack4Life Theme
+Author: Fabian Geissler (Hack4Life) <admin@hack4life.org>
+Name: WhatsApp Grünes Chat Theme
+
+Package: io.cjbd.whatsappchatthemeorange
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Fabian Geissler (Hack4Life) <admin@hack4life.org>
+Installed-Size: 414
+Filename: ./debs/io.cjbd.whatsappchatthemeorange_1.0.0_iphoneos-arm.deb
+Size: 23836
+MD5sum: 887f46552de5ba8e29ffe9a0c5b134a6
+SHA1: f9d6127d34204a55366646a390da27f05a6ce625
+SHA256: fa9511ea796e91f4726155ee2e4b6662a142632b091e60d3300bf430130c6d5c
+Section: Themes (WhatsApp)
+Description: Orange Chat Blasen für WhatsApp.
+Author: Fabian Geissler (Hack4Life) <admin@hack4life.org>
+Name: WhatsApp Oranges Chat Theme
+
+Package: io.cjbd.whatsappchatthemepetrol
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Fabian Geissler (Hack4Life) <admin@hack4life.org>
+Installed-Size: 414
+Filename: ./debs/io.cjbd.whatsappchatthemepetrol_1.0.0_iphoneos-arm.deb
+Size: 23836
+MD5sum: 0e25b9767bca76fb279b880165bb7726
+SHA1: c54338e261942e14025a8d447ae989c6f63b37dc
+SHA256: 2debe00a37b5f3f08de0a5d002fe1e98bf3e3c48aace4bf8cd378395e25863fb
+Section: Themes (WhatsApp)
+Description: Petrol Chat Blasen für WhatsApp.
+Author: Fabian Geissler (Hack4Life) <admin@hack4life.org>
+Name: WhatsApp Petrol Chat Theme
+
+Package: io.cjbd.whatsappchatthemerot
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Fabian Geissler (Hack4Life) <admin@hack4life.org>
+Installed-Size: 414
+Filename: ./debs/io.cjbd.whatsappchatthemerot_1.0.0_iphoneos-arm.deb
+Size: 24092
+MD5sum: 31f83fbd8f16da2b9b532bfab4b8ae39
+SHA1: b9c4a93840697fefe962abe7660894fb27a85b6d
+SHA256: 0e6518555778b206cfde78595959c39e38fe0b9204190adc2d48bcacbf337211
+Section: Themes (WhatsApp)
+Description: Rote Chat Blasen für WhatsApp.
+Author: Fabian Geissler (Hack4Life) <admin@hack4life.org>
+Name: WhatsApp Rotes Chat Theme
+
