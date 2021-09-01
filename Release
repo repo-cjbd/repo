@@ -1,0 +1,9 @@
+Origin: CYDIA Jailbreak Deutschland
+Label: CJBD
+Suite: stable
+Version: 1.0
+Codename: CJBD
+Architectures: iphoneos-arm
+Components: main
+Description: CJBD-Repo
+Icon: file://CydiaIcon.png
