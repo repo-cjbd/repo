@@ -419,7 +419,9 @@ Package: io.cjbd.dra1n
 Version: 1.4.3
 Architecture: iphoneos-arm
 Maintainer: CJBD <t0mi@web.de>
+Installed-Size: 3733
 Filename: ./debs/io.cjbd.dra1n_1.4.3_iphoneos-arm.deb
+Size: 1763828
 MD5sum: b87233a9623975ac68e30df13ca0886f
 SHA1: 6abda3506d107fff155d6fa87ffb1391bcf8918f
 SHA256: 228ed8d225acc8467dbd0bd9a21df6c9a6e8fc3ed8a72b36684fa69abfb47798
