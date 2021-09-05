@@ -415,3 +415,17 @@ Description: Rote Chat Blasen für WhatsApp.
 Author: Fabian Geissler (Hack4Life) <admin@hack4life.org>
 Name: WhatsApp Rotes Chat Theme
 
+Package: io.cjbd.dra1n
+Version: 1.4.3
+Architecture: iphoneos-arm
+Maintainer: CJBD <t0mi@web.de>
+Filename: ./debs/io.cjbd.dra1n_1.4.3_iphoneos-arm.deb
+MD5sum: b87233a9623975ac68e30df13ca0886f
+SHA1: 6abda3506d107fff155d6fa87ffb1391bcf8918f
+SHA256: 228ed8d225acc8467dbd0bd9a21df6c9a6e8fc3ed8a72b36684fa69abfb47798
+Section: Tweaks
+Depends: mobilesubstrate, firmware(>=12.2) | org.swift.libswift (>=5.0), ws.hbang.common,preferenceloader, com.cokepokes.libnotifications (>= 0.2-2)
+Conflicts: com.megadev.dra1n, com.amywhile.dra1n
+Description: Finde heraus, welche Pakete Ihre Batterie belasten!
+Author: MegaDev & Amy While
+Name: Dra1n
