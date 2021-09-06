@@ -90,14 +90,14 @@ Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
 Name: FlyJB
 
 Package: io.cjbd.glasklart
-Version: 2.0
+Version: 5.69
 Architecture: iphoneos-arm
 Maintainer: CJBD <t0m@web.de>
-Filename: ./debs/io.cjbd.glasklart_2.0_iphoneos-arm.deb
-Size: 79141232
-MD5sum: 5b428cec4e66458c1dd6f4d1307276e6
-SHA1: 8b728a408a111e4d16279fd5447f0786e76e34f8
-SHA256: afa1e4a7f87efe29405b29fcdfd16472cdd241c15fe12a75a750f6a474093681
+Filename: ./debs/io.cjbd.glasklart_5.69_iphoneos-arm.deb
+Size: 79231372
+MD5sum: ec9554dccc756d85f73dda37dc62369b
+SHA1: 31882ae6b5c161b1f307bd816ce0c4f6b8682803
+SHA256: a925b2f48554c8111e53198412943b65574e243a2bd9215f99738c5617e4a01d
 Section: Themes
 Description: Überdacht und neu gemacht für das Retina-Display.
 Author: Max Rudberg
