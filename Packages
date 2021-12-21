@@ -431,3 +431,20 @@ Conflicts: com.megadev.dra1n, com.amywhile.dra1n
 Description: Finde heraus, welche Pakete Ihre Batterie belasten!
 Author: MegaDev & Amy While
 Name: Dra1n
+
+Package: io.cjbd.flyjbx
+Version: 1.2.6
+Architecture: iphoneos-arm
+Maintainer: CJBD <t0mi@web.de>
+Installed-Size: 1580
+Filename: ./debs/io.cjbd.flyjbx_1.2.6_iphoneos-arm.deb
+Size: 768186
+MD5sum: 9e0e7affda4ba82f5bd24c3754ece92c
+SHA1: 5fae2f10811264b7ae67e3670ca55a3c346643eb
+SHA256: 4085b8b3855e47214ee39ece938b705dd5da058ef13cec6334f32832f5fc20cc
+Section: Tweaks
+Depends: mobilesubstrate
+Conflicts: kr.xsf1re.flyjb, kr.xsf1re.flyjbx, io.cjbd.flyjb
+Description: Sie kÃ¶nnen den Jailbreak auf ihrem iDevice ausblenden
+Author: XsF1re
+Name: FlyJB X
