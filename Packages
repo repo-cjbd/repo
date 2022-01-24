@@ -452,23 +452,24 @@ Name: FlyJB X
 Architecture: iphoneos-arm
 Package: com.mtac.lynxtwo.localizations
 Name: Lynx 2 Localizations
-Version: 1.0.4.0.2
+Version: 1.0.4.0.3
 Depiction: https://mtac.app/repo/depiction/web/com.mtac.lynxtwo.localizations.html
 SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.lynxtwo.localizations.json
 ModernDepiction: https://mtac.app/repo/depiction/native/com.mtac.lynxtwo.localizations.json
 Icon: https://mtac.app/repo/assets/com.mtac.lynxtwo.localizations/icon.png
 Description: Language support for Lynx 2 tweak
 Section: Tweaks
-Depends: firmware (>=14.0), firmware (>= 14.0), preferenceloader, com.twickd.mtac.lynx-2
+Depends: firmware (>=14.0), firmware (>= 14.0), preferenceloader, com.mtac.lynxtwo
 Tags: compatible_min::ios14.0, compatible_max::ios14.5
 Author: MTAC <mtac@mtac.app>
 Maintainer: MTAC <mtac@mtac.app>
 Tag: role::enduser
 SomeOtherEntryToControl: True
 Installed-Size: 151
-Filename: ./debs/com.mtac.lynxtwo.localizations_1.0.4.0.2_iphoneos-arm.deb
+Filename: ./debs/com.mtac.lynxtwo.localizations_1.0.4.0.3_iphoneos-arm.deb
 Size: 51364
-MD5sum: 8a131b8b40dffff357460ac2d5bf092e
-SHA1: b233df4737b4e04cf147e950b6795926cb48cd84
-SHA256: 32e24ba523e371648f4105960f678f27f9890039f82ae9f8aae2b361163d57b5
+MD5sum: eb8d98663a92fc565fa047edc3cabf14
+SHA1: b7a9d1236d31df0460d5cc7fe50db8e3c6f146e0
+SHA256: 9d17d36e0bf5d0c847e74c672d49e5a792cd3b7461d248b61fffdf72bf9927f0
+
 
