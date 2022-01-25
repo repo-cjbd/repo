@@ -467,7 +467,7 @@ Tag: role::enduser
 SomeOtherEntryToControl: True
 Installed-Size: 151
 Filename: ./debs/com.mtac.lynxtwo.localizations_1.0.5.1_iphoneos-arm.deb
-Size: 51362
+Size: 51360
 MD5sum: ff00791345696dbfc259fdbb988bdab1
 SHA1: 4a6732ee041ad61e43718eb6caeeb5099164d9fd
 SHA256: f089711743f168dcae423c43a126a90c0180bd44a0a6acb62bc8b6333ed203d7
