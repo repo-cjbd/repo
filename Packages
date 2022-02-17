@@ -449,27 +449,4 @@ Description: Sie kÃ¶nnen den Jailbreak auf ihrem iDevice ausblenden
 Author: XsF1re
 Name: FlyJB X
 
-Architecture: iphoneos-arm
-Package: com.mtac.lynxtwo.localizations
-Name: Lynx 2 Localizations
-Version: 1.0.5.1
-Depiction: https://mtac.app/repo/depiction/web/com.mtac.lynxtwo.localizations.html
-SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.lynxtwo.localizations.json
-ModernDepiction: https://mtac.app/repo/depiction/native/com.mtac.lynxtwo.localizations.json
-Icon: https://mtac.app/repo/assets/com.mtac.lynxtwo.localizations/icon.png
-Description: Language support for Lynx 2 tweak
-Section: Tweaks
-Depends: firmware (>=14.0), firmware (>= 14.0), preferenceloader, com.mtac.lynxtwo
-Tags: compatible_min::ios14.0, compatible_max::ios14.5
-Author: MTAC <mtac@mtac.app>
-Maintainer: MTAC <mtac@mtac.app>
-Tag: role::enduser
-SomeOtherEntryToControl: True
-Installed-Size: 151
-Filename: ./debs/com.mtac.lynxtwo.localizations_1.0.5.1_iphoneos-arm.deb
-Size: 51360
-MD5sum: ff00791345696dbfc259fdbb988bdab1
-SHA1: 4a6732ee041ad61e43718eb6caeeb5099164d9fd
-SHA256: f089711743f168dcae423c43a126a90c0180bd44a0a6acb62bc8b6333ed203d7
-
 
